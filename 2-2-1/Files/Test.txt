@@ -1,0 +1,7 @@
+There is text file.
+Replace all vowels in text to number at the alphabet.
+
+I-E-A-I-A-I-O
+Aa ee eh aa eh aa oh, aa ee eh aa eh aa oh, why?
+
+Kirilitsa doesn't work with any method, either win1251.
